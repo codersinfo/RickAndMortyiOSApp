@@ -7,6 +7,7 @@
 
 import UIKit
 
+///Character to show and search for characters
 final class RMLocationViewController: UIViewController {
 
     override func viewDidLoad() {
